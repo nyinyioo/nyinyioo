@@ -8,7 +8,8 @@ I'm a computer engineering student learning FPGAs and RTL design in SystemVerilo
 <td valign="top" width="50%">
 
 ### Digital Design
-Understanding FSM design, memory, timing, metastability, and FPGA architecture. Writing and verifying RTL designs on a DE1-SoC through hands-on practice.
+
+Projects focused on understanding FSM design, memory, timing, metastability, and FPGA architecture.
 
 **[digital-design](https://github.com/nyinyioo/digital-design)**
 
@@ -24,7 +25,7 @@ Understanding FSM design, memory, timing, metastability, and FPGA architecture. 
 
 ### Full-Stack 
 
-Full-stack chat app with React frontend, Node.js backend, and a sentiment analysis pipeline.
+A chat application with a React frontend, Node.js/Express backend, MongoDB and a sentiment analysis pipeline to analyze user interactions in real-time.
 
 **[sentiment-analysis-chatapp](https://github.com/nyinyioo/sentiment-analysis-chatapp)**
 
