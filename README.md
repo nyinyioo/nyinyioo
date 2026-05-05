@@ -2,32 +2,28 @@
 
 I'm a computer engineering student learning FPGAs and RTL design in SystemVerilog, and full-stack development.
 
-Open to internships in embedded systems, full-stack development, or ML engineering.
-
 ## Projects
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Digital Design — SystemVerilog
+### Digital Design
 Understanding FSM design, memory, timing, metastability, and FPGA architecture.  
 Writing and verifying RTL designs on a DE1-SoC through hands-on practice.
 
 **[digital-design](https://github.com/nyinyioo/digital-design)**
 
-| Project | Description | Status |
-|---|---|---|
-| HDLBits | FSM, sequential, combinational problems | ⚙️ In Progress |
-| Bacarrat | Baccarat FSM, datapath, 7seg display | ✅ Completed | 
-| VGA | Fillscreen, Bresenham circle, Reuleaux triangle | ✅ Completed |
-| Memory | Single Port SRAM RC4 | ⚙️ In Progress |
-
+| Project | Description |
+|---|---|
+| 🃏 Baccarat | FSM, datapath, 7-seg display |
+| 🖥️ VGA | Fullscreen, Bresenham circle, Reuleaux triangle |
+| 💾 Memory | Single-port SRAM ARC4 |
 
 
 </td>
 <td valign="top" width="50%">
 
-### Full-Stack — MERN 
+### Full-Stack 
 
 Full-stack chat app with React frontend, Node.js backend, and a sentiment analysis pipeline - extending into CBT pattern detection.
 
