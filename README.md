@@ -29,7 +29,9 @@ A chat application with a React frontend, Node.js/Express backend, MongoDB and a
 
 **[sentiment-analysis-chatapp](https://github.com/nyinyioo/sentiment-analysis-chatapp)**
 
-[![Codacy Grade](https://app.codacy.com/project/badge/Grade/45622aa010ee42d8875024d5f189e4cc)](https://app.codacy.com/gh/nyinyioo/sentiment-analysis-chatapp/dashboard)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4dcc12314708482194971ea4ecc797e1)](https://app.codacy.com/gh/nyinyioo/sentiment-analysis-chatapp/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 [![Codacy Coverage](https://app.codacy.com/project/badge/Coverage/45622aa010ee42d8875024d5f189e4cc)](https://app.codacy.com/gh/nyinyioo/sentiment-analysis-chatapp/dashboard)
 
 
