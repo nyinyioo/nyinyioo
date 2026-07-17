@@ -1,5 +1,6 @@
 # Hi, I'm Nyi 👋
-I'm a computer engineering student interested in embedded systems.
+
+I'm a third-year Computer Engineering student with a passion for software and embedded systems.
 
 *Open to firmware and embedded internships · [LinkedIn](https://www.linkedin.com/in/nyi-nyi-oo-4b1a26236/)*
 
