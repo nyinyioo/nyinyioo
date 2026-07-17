@@ -2,7 +2,7 @@
 
 I'm a third-year Computer Engineering student with a passion for software and embedded systems.
 
-Open to firmware, embedded, or software engineering roles where I can learn, collaborate, and contribute to meaningful projects. 
+Open to firmware, embedded, and full-stack roles where I can learn, collaborate, and contribute to meaningful projects. 
 
 · [LinkedIn](https://www.linkedin.com/in/nyi-nyi-oo-4b1a26236/)
 
