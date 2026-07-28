@@ -32,7 +32,7 @@ Projects focused on FSM design, memory, timing, metastability, and FPGA architec
 
 | Project | Description |
 |---|---|
-| 🛠️ HBLBits | Verilog Problem Set |
+| 🛠️ HDLBits | Verilog Problem Set |
 | 🃏 Baccarat | FSM, datapath, 7-seg display |
 | 🖥️ VGA | Fullscreen, Bresenham circle, Reuleaux triangle |
 | 💾 Memory | Single-port SRAM ARC4 |
