@@ -1,8 +1,8 @@
 # Hi, I'm Nyi 👋
 
-I'm a fourth-year Computer Engineering student with a passion for software and embedded systems.
+I'm a fourth-year Computer Engineering student with a passion for embedded systems and robotics.
 
-Open to firmware, embedded, and full-stack roles where I can learn, collaborate, and contribute to meaningful projects.
+Open to firmware, embedded, and robotics roles where I can learn, collaborate, and contribute to meaningful projects.
 
 [LinkedIn](https://www.linkedin.com/in/nyi-nyi-oo-4b1a26236/)
 
